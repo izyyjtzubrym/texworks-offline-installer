@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-LaTeX+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TeXworks Free Installer** — TeXworks is a simple, free LaTeX editor for Windows, macOS, and Linux designed for beginners. Works without internet access, no account required. Full offline installation.
+**💻 TeXworks Free Installer** — TeXworks is a free, simple, cross-platform LaTeX editor with a built-in PDF previewer. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TeXworks
 
-TeXworks is a simple, free LaTeX editor for Windows, macOS, and Linux designed for beginners. With a minimal interface showing source and PDF side-by-side, automatic syncing between source and preview, and basic syntax highlighting, TeXworks provides a gentle introduction to LaTeX authoring. Included with TeX Live and MiKTeX distributions, making it the default LaTeX editor for many new users.
+TeXworks is a free, simple, cross-platform LaTeX editor with a built-in PDF previewer. Designed for new LaTeX users, it provides a minimal interface that gets out of the way — part of the TeX Live distribution and included with many LaTeX installations.
 
 ---
 
 ## ❌ Problem: TeXworks is hard to access
 
-- **Limited Features** — Less feature-rich than TeXstudio or Overleaf for advanced users
-- **No Advanced Completion** — Basic auto-completion compared to professional LaTeX editors
-- **Interface Simplicity** — Minimalism can hinder productivity for complex projects
-- **Plugin Ecosystem** — Very limited extension system
+- **Very Basic Interface** — Intentionally minimal; lacks many features of TeXstudio
+- **LaTeX Distribution Required** — Needs TeX Live or MiKTeX installed
+- **Limited Autocomplete** — Fewer language assistance features than TeXstudio
+- **Development Pace** — Receives less active development than competing LaTeX editors
 
 ---
 
@@ -121,7 +121,7 @@ TeXworks is a simple, free LaTeX editor for Windows, macOS, and Linux designed f
 
 ---
 
-**TeXworks Free Installer** — TeXworks is a simple, free LaTeX editor for Windows, macOS, and Linux designed for beginners. Install without internet connection today!
+**TeXworks Free Installer** — TeXworks is a free, simple, cross-platform LaTeX editor with a built-in PDF previewer. Install without internet connection today!
 
 <div align="center">
 
